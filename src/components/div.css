@@ -1,0 +1,20 @@
+.card {
+ margin: 50px;
+ /* display: flex;
+ flex-direction: row;
+ width: 100%; */
+ border: 1px solid #00b8ca;
+    margin: 20px;
+    background-color: #9ba1af;
+    text-align: center; 
+
+
+}
+
+.cont{
+    text-align: center; 
+    
+
+   
+}
+
