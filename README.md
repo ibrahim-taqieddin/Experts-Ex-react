@@ -15,7 +15,7 @@ the added feature is converting currencies from any rates to another.
 
 LINKS:
 
-1- eframe and mock up : [Experts.pdf](https://github.com/ibrahim-taqieddin/Experts-Ex-react/files/10046425/Experts.pdf)
+1- wireframe and mock up : [Experts.pdf](https://github.com/ibrahim-taqieddin/Experts-Ex-react/files/10046425/Experts.pdf)
 
 
-2-ello Board : https://trello.com/b/YI27cvuU/experts-ex
+2- Trello Board : https://trello.com/b/YI27cvuU/experts-ex
